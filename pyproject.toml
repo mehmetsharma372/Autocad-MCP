@@ -1,0 +1,5 @@
+[project]
+name = "autocad-mcp"
+version = "0.1.0"
+description = "Production-grade AutoCAD MCP server for AI agents — 122 tools, dual COM (live AutoCAD) + headless ezdxf engines, ISO GD&T and dimension-tolerance validation for CAD automation."
+requires-python = ">=3.10"
